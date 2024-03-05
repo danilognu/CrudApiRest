@@ -1,4 +1,8 @@
 
+# Crud Api Rest 
+
+Crud de tarefas e pessoas, com um front end simples.
+
 ## Documentação da API
 
 #### Retorna todos os itens
